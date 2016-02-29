@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petribelloniicen00belo_0083.png"; bbox 0 0 2377 1512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 439 56 1644 191">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 439 56 1644 191">
+     <span class='ocr_line' id='line_1_1' title="bbox 565 56 1555 104; baseline 0.021 -21"><span class='ocrx_word' id='word_1_1' title='bbox 565 56 647 85; x_wconf 77' lang='grc' dir='ltr'>οε</span> <span class='ocrx_word' id='word_1_2' title='bbox 699 57 1252 99; x_wconf 29' lang='grc' dir='ltr'>ἈοςνΑτιιιΒνε</span> <span class='ocrx_word' id='word_1_3' title='bbox 1315 73 1450 102; x_wconf 79' lang='grc' dir='ltr'><strong>ιῐΒ.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1524 76 1555 104; x_wconf 84' lang='grc' dir='ltr'>ι.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 439 109 1644 191; baseline 0.019 -36"><span class='ocrx_word' id='word_1_5' title='bbox 439 109 665 169; x_wconf 53' lang='lat' dir='ltr'>Kpono&#39;aeffloq</span> <span class='ocrx_word' id='word_1_6' title='bbox 674 117 850 175; x_wconf 60' lang='grc' dir='ltr'>χερσαῖος,</span> <span class='ocrx_word' id='word_1_7' title='bbox 864 122 1093 168; x_wconf 82' lang='lat' dir='ltr'>Crocodilus</span> <span class='ocrx_word' id='word_1_8' title='bbox 1105 129 1305 179; x_wconf 80' lang='lat' dir='ltr'>terrestris,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1317 133 1483 175; x_wconf 66' lang='lat' dir='ltr'><em>crocodnle</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1489 140 1644 191; x_wconf 68' lang='lat' dir='ltr'><em>terrestre.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2045 92 2096 133">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2045 92 2096 133">
+     <span class='ocr_line' id='line_1_3' title="bbox 2045 92 2096 133; baseline 0.059 -3"><span class='ocrx_word' id='word_1_11' title='bbox 2045 92 2096 133; x_wconf 78' lang='lat'>43</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 6 287 2091 1321">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 6 287 2091 1321">
+     <span class='ocr_line' id='line_1_4' title="bbox 6 287 2091 1321; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 6 287 2091 1321; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

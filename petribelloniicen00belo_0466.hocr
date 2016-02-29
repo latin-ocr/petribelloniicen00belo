@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petribelloniicen00belo_0466.png"; bbox 0 0 2377 1512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 927 35 1297 68">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 927 35 1297 68">
+     <span class='ocr_line' id='line_1_1' title="bbox 927 35 1297 68; baseline 0.014 -5"><span class='ocrx_word' id='word_1_1' title='bbox 927 35 1297 68; x_wconf 65' lang='lat' dir='ltr'>Ber-tour!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 645 33 860 66">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 645 33 860 66">
+     <span class='ocr_line' id='line_1_2' title="bbox 645 33 860 66; baseline 0.014 -3"><span class='ocrx_word' id='word_1_2' title='bbox 645 33 860 66; x_wconf 72' lang='lat' dir='ltr'>rETRI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 220 26 295 78">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 220 26 295 78">
+     <span class='ocr_line' id='line_1_3' title="bbox 220 26 295 78; baseline 0.027 -16"><span class='ocrx_word' id='word_1_3' title='bbox 220 26 295 78; x_wconf 80' lang='lat'>426</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1357 36 1757 75">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1357 36 1757 75">
+     <span class='ocr_line' id='line_1_4' title="bbox 1357 36 1757 75; baseline 0.01 -7"><span class='ocrx_word' id='word_1_4' title='bbox 1357 36 1757 75; x_wconf 53' lang='lat' dir='ltr'>etuox‘hnl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2342 0 2377 1512">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2342 0 2377 1512">
+     <span class='ocr_line' id='line_1_5' title="bbox 2342 0 2377 1512; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 2342 0 2377 1512; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 237 141 1120 204">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 237 141 1120 204">
+     <span class='ocr_line' id='line_1_6' title="bbox 237 141 1120 204; baseline 0.007 -13"><span class='ocrx_word' id='word_1_6' title='bbox 237 141 356 204; x_wconf 59' lang='grc' dir='ltr'><strong><em>Κήρυξ</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 365 153 660 201; x_wconf 78' lang='lat' dir='ltr'>Graecis‚Mu1-ex</span> <span class='ocrx_word' id='word_1_8' title='bbox 673 156 710 194; x_wconf 72' lang='grc' dir='ltr'>ἃ</span> <span class='ocrx_word' id='word_1_9' title='bbox 721 155 941 195; x_wconf 80' lang='lat' dir='ltr'>Buccinum</span> <span class='ocrx_word' id='word_1_10' title='bbox 955 156 1120 197; x_wconf 83' lang='lat' dir='ltr'>Latinis.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 0 1324">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 0 1324">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 0 1324; textangle 270"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 0 1324; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

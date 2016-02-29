@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petribelloniicen00belo_0053.png"; bbox 0 0 2377 1512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 579 51 1563 103">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 579 51 1563 103">
+     <span class='ocr_line' id='line_1_1' title="bbox 579 51 1563 103; baseline 0.009 -15"><span class='ocrx_word' id='word_1_1' title='bbox 579 51 665 93; x_wconf 56' lang='lat' dir='ltr'>uin</span> <span class='ocrx_word' id='word_1_2' title='bbox 720 63 868 103; x_wconf 41' lang='grc' dir='ltr'>7Α-..οςν</span> <span class='ocrx_word' id='word_1_3' title='bbox 895 60 980 92; x_wconf 58' lang='lat' dir='ltr'>Aa?</span> <span class='ocrx_word' id='word_1_4' title='bbox 1007 64 1023 91; x_wconf 70' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1052 67 1082 94; x_wconf 77' lang='lat'>1.-</span> <span class='ocrx_word' id='word_1_6' title='bbox 1105 66 1126 93; x_wconf 72' lang='grc' dir='ltr'><strong>ι</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1152 66 1175 94; x_wconf 76' lang='grc' dir='ltr'><strong>Β</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1201 67 1293 96; x_wconf 79' lang='grc' dir='ltr'>ν.ς-</span> <span class='ocrx_word' id='word_1_9' title='bbox 1338 69 1362 97; x_wconf 80' lang='grc' dir='ltr'><strong>ι</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1391 68 1406 96; x_wconf 83' lang='lat'>1</span> <span class='ocrx_word' id='word_1_11' title='bbox 1437 69 1476 97; x_wconf 73' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1524 69 1563 97; x_wconf 59' lang='lat'>1„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 640 139 1490 193">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 640 139 1490 193">
+     <span class='ocr_line' id='line_1_2' title="bbox 640 139 1490 193; baseline 0.011 -16"><span class='ocrx_word' id='word_1_13' title='bbox 640 141 810 179; x_wconf 70' lang='lat' dir='ltr'>Matricis</span> <span class='ocrx_word' id='word_1_14' title='bbox 833 139 1239 193; x_wconf 72' lang='lat' dir='ltr'><strong>Delphinicunrfoetu</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1253 140 1490 187; x_wconf 83' lang='lat' dir='ltr'>efformatio.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 256 283 1813 1254">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 256 283 1813 1254">
+     <span class='ocr_line' id='line_1_3' title="bbox 256 283 1813 1254; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 256 283 1813 1254; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2057 71 2125 113">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2057 71 2125 113">
+     <span class='ocr_line' id='line_1_4' title="bbox 2057 71 2125 113; baseline -0.029 -15"><span class='ocrx_word' id='word_1_17' title='bbox 2057 71 2109 113; x_wconf 53' lang='lat'>²3⁴}</span> <span class='ocrx_word' id='word_1_18' title='bbox 2122 95 2125 96; x_wconf 13' lang='grc' dir='ltr'><em>γ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

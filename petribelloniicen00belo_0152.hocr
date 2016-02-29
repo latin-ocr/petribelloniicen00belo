@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petribelloniicen00belo_0152.png"; bbox 0 0 2377 1512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 791 57 1926 111">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 791 57 1926 111">
+     <span class='ocr_line' id='line_1_1' title="bbox 791 57 1926 111; baseline -0.021 0"><span class='ocrx_word' id='word_1_1' title='bbox 791 76 1011 111; x_wconf 63' lang='lat' dir='ltr'><strong>PETR}</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1068 67 1455 104; x_wconf 65' lang='lat' dir='ltr'>unzter-¹11</span> <span class='ocrx_word' id='word_1_3' title='bbox 1515 57 1926 97; x_wconf 60' lang='lat' dir='ltr'>cenouaut</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 709 118 1865 243">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 709 118 1865 243">
+     <span class='ocr_line' id='line_1_2' title="bbox 709 118 1865 189; baseline -0.022 -5"><span class='ocrx_word' id='word_1_4' title='bbox 709 138 1046 189; x_wconf 62' lang='lat' dir='ltr'>rmc‘fawcsslaucus</span> <span class='ocrx_word' id='word_1_5' title='bbox 1062 127 1485 184; x_wconf 73' lang='lat' dir='ltr'>:Gen-uenfibus,1²egaro</span> <span class='ocrx_word' id='word_1_6' title='bbox 1499 146 1509 165; x_wconf 91' lang='lat'>.·</span> <span class='ocrx_word' id='word_1_7' title='bbox 1521 118 1865 168; x_wconf 66' lang='lat' dir='ltr'>Venetis‚corbe‘uo=-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 862 177 1724 243; baseline -0.021 -6"><span class='ocrx_word' id='word_1_8' title='bbox 862 190 1167 243; x_wconf 71' lang='lat' dir='ltr'><strong>Maffiuenflbus</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1182 194 1220 231; x_wconf 91' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_10' title='bbox 1232 191 1428 232; x_wconf 77' lang='lat' dir='ltr'>Romanis</span> <span class='ocrx_word' id='word_1_11' title='bbox 1445 177 1724 231; x_wconf 59' lang='lat' dir='ltr'>falffiffmbrina.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 287 278 2377 1401">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 287 278 2377 1401">
+     <span class='ocr_line' id='line_1_4' title="bbox 287 278 2377 1401; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 287 278 2377 1401; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

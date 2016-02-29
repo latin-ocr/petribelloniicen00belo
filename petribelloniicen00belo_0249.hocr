@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petribelloniicen00belo_0249.png"; bbox 0 0 2377 1512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 562 47 2057 94">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 562 47 2057 94">
+     <span class='ocr_line' id='line_1_1' title="bbox 562 47 2057 94; baseline -0.006 -10"><span class='ocrx_word' id='word_1_1' title='bbox 562 55 640 84; x_wconf 70' lang='lat' dir='ltr'>nt</span> <span class='ocrx_word' id='word_1_2' title='bbox 701 49 1259 94; x_wconf 61' lang='lat' dir='ltr'>AQVArlzxnvs</span> <span class='ocrx_word' id='word_1_3' title='bbox 1353 47 1487 78; x_wconf 72' lang='lat'>218.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1536 48 1569 78; x_wconf 76' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1980 48 2057 87; x_wconf 76' lang='lat'>209</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 300 156 1770 327">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 300 156 1770 327">
+     <span class='ocr_line' id='line_1_2' title="bbox 300 156 1770 225; baseline -0.008 -10"><span class='ocrx_word' id='word_1_6' title='bbox 300 169 569 223; x_wconf 54' lang='lat' dir='ltr'>Av‘eyssraecis</span> <span class='ocrx_word' id='word_1_7' title='bbox 589 186 632 212; x_wconf 87' lang='lat' dir='ltr'>ac</span> <span class='ocrx_word' id='word_1_8' title='bbox 645 173 1093 212; x_wconf 79' lang='lat' dir='ltr'>LatiniszRomanorum</span> <span class='ocrx_word' id='word_1_9' title='bbox 1105 168 1337 225; x_wconf 79' lang='lat' dir='ltr'>vulg0‚1’esce</span> <span class='ocrx_word' id='word_1_10' title='bbox 1352 156 1770 219; x_wconf 57' lang='lat' dir='ltr'>forcaszffilienfibus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 509 223 1569 278; baseline -0.008 -6"><span class='ocrx_word' id='word_1_11' title='bbox 509 235 548 272; x_wconf 84' lang='lat'><strong>&amp;</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 563 226 1108 275; x_wconf 65' lang='lat' dir='ltr'>Genuenfibus,Malarmar,ve1</span> <span class='ocrx_word' id='word_1_13' title='bbox 1124 223 1435 278; x_wconf 74' lang='lat' dir='ltr'>Mararmat‚quafi</span> <span class='ocrx_word' id='word_1_14' title='bbox 1449 228 1569 263; x_wconf 76' lang='lat' dir='ltr'>maris</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 836 285 1236 327; baseline -0.008 0"><span class='ocrx_word' id='word_1_15' title='bbox 836 300 1034 327; x_wconf 83' lang='lat' dir='ltr'>armatum</span> <span class='ocrx_word' id='word_1_16' title='bbox 1050 285 1236 327; x_wconf 78' lang='lat' dir='ltr'><strong>dicerent.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1 445 2162 1476">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1 445 2162 1476">
+     <span class='ocr_line' id='line_1_5' title="bbox 1 445 2162 1476; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 1 445 2162 1476; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
